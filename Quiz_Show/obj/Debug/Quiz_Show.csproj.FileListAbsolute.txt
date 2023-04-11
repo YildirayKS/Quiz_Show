@@ -1,0 +1,11 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\bin\Debug\Quiz_Show.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Quiz_Show\Quiz_Show\obj\Debug\Quiz_Show.pdb
